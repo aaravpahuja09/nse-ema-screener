@@ -11,5 +11,5 @@ An automated Python tool that fetches real-time market data for top National Sto
 ## 🛠️ How to Run
 1. **Clone this repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/nse-ema-screener.git](https://github.com/YOUR_USERNAME/nse-ema-screener.git)
+   git clone [https://github.com/aaravpahuja09/nse-ema-screener.git](https://github.com/aaravpahuja09/nse-ema-screener.git)
    cd nse-ema-screener
